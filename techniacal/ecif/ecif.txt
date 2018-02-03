@@ -1,0 +1,41 @@
+ECIF:
+
+1.Pradarshan 2017 – the third edition of the project exhibition is one of the most awaited events conducted by ECIF. The event shall follow closely on the heels of 
+Electronica 2017 and replicate the success of the previous iterations. Pradarshan offers everyone a platform to showcase their projects and talk about them. While 
+everyone is encouraged to make their presence felt during the event, casual observers are assured to be dazzled by a plethora of amazing projects and tech 
+demonstrations.
+The competition is scheduled to be held on 28th April, 2017 and is being planned to organize in Bangalore level.The event will be open to all students in first,second,
+third, fourth years of B.Tech as well as M.Tech students and research faculties. The project can be done on any topic related to the field of electronics.
+
+2.lectronica-
+24 hours. 4 practical circuits. 1 grand event!
+Participate in Electronica 2017!
+A day-night event where we teach you electronics from scratch, and you get to compete and build circuits on your own. 
+Prizes worth Rs. 15,000 and goodies to be won. 
+Get certified by ECIF.
+Pay Rs 510 for a team of 3 (max). 
+Get a takeaway kit worth Rs 400. 
+Join us from 9 AM, 18th February 2017 inCP Lab, for 24 continuous hours!
+Sponsored by StudyOwl, Paytm, Flipkart and Sculp.It
+
+3.Decipher-
+ for Juniors held on 10th November saw school students participating from 68 teams, each consisting of 2-3 members. The first round had teams brainstorming
+ to break the given encryption with the help of the keys and information provided to decipher a short quote. 17 teams successfully broke the encryption in time to
+ qualify for the 2nd round – The Treasure Hunt. The treasure hunt saw teams running around the campus in search of clues competing to get to the ‘treasure’ in the 
+shortest time possible. 9 teams qualified to the finals after retrieving the treasure within the given time with the help of the clues. The final round had the teams
+ competing to create an efficient electromagnet with the given apparatus in the shortest span of time. 3 winners were selected from the lot after measuring the
+ effectiveness of electromagnet and noting the time taken. 
+Decipher for Seniors held on 11th November saw participants from nearly 70 teams, each consisting of 2-3 members, of which 16 teams could qualify for the 2nd round. 
+After playing through the Treasure Hunt, 6 teams qualified for the final round of DeCipher – where the competed against each other and time to glow an LED with the 
+highest intensity using the given components like breadboards, resistors, cells, etc. 3 winners were selected with the judging criteria being the brightness of the
+ glowing LED and the time taken to complete the task. 
+
+4.Tech Expo-
+ hosted by ECIF in collaboration with IEEE Communication Society, saw a grand opening on Aarohan 2016. People flocked the venue to see the various 
+seemingly complex circuits on display – students, teachers and professors alike. The exhibits included an Alcohol Detector, a LASER security system, and a VU meter 
+among other things. The presenters explained the working of all the circuits in an easy to understand manner, abstracting all the deep technical knowledge that may
+ intimidate the audience. The audience was impressed by the sheer possibility of the fact that all that equipment could be created single handedly in the dorm room,
+ and posed their doubts and enquiries to the presenters. 
+Conducted in parallel with Tech Expo, Know Your Equipment comprised the electronic appliances used by the everyday man – VCR player, CRT monitor, router and charger. 
+The presenters explained the structure and working of the exhibited devices with great detail and in an attractive manner.
+

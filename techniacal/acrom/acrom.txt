@@ -1,0 +1,45 @@
+ACROM-
+INTRO-
+The goal of ACROM (Amrita Club for Robotics and Mechatronics) is to familiarize the students with the concepts and techniques in robotics, enough to evaluate, chose, 
+and incorporate robots in engineering systems. The club provides the opportunity for students from various engineering disciplines to work together, sharing their
+ individual expertise. Groups are selected to permit students from different departments to work together in solving problems that require skills from each discipline.
+
+EVENTS-
+1.RASE’16  - NATIONAL LEVEL ROBOTICS COMPETITION
+
+ROBDEUM @ ASE- RASE'16 is an Annual National Level Robotic Competition organized by Amrita Club for Robotics and Mechnatronics(ACROM) at Amrita School of Engineering, 
+Bengaluru from March 4-5, 2016. The fest aims to encourage student in the field of robotics by creating a healthy competition for student from across the nation 
+to give students a platform to present and showcase their skills.
+Date: 
+2016-03-04 09:30 to 2016-03-05 17:30
+ORGANIZED BY:
+School: School of Engineering
+Campus: Bengaluru 
+
+2.LI-FO can you beat the path?
+Line following- the old gold of all robotics competitions will take a new form in RASE'14. With the basic idea being the same, this line follower challenge will be 
+more advanced, with bigger challenges and more threats and hence, more thrill and fun.
+Problem Statement-The task will be to drive through the track while following a black line and tackling the surprise challenges on the arena which will be 
+disclosed on the day of the competition. The quickest and most intelligent robot will be declared the winner.
+
+
+3.DEATH RACE-
+Are you an adventure lover and want to be a part of a real challenge? Then, the power-packed DEATH RACE is just what you want!
+Problem Statement- Design a wired/wireless, manually controlled robot that would be able to reach the finish line while traversing on both land and in water and 
+survive its way out crossing a hostile battle ground. The robot that surpasses all hurdles and accomplishes the mission in minimum time is declared the death race 
+champion.
+
+4.ROBO WARS-
+We bring to you an unmatched level of intense and vigorous competition.Clash one-on-one and unleash your skills in the Arena.
+Problem Statement-Design a wired/wireless, manually controlled machine that is capable of either defeating its opponent on its own or pushing its opponent out of
+ the arena.
+
+5.BI-PED LI-FO-
+The most anticipated and one of its kind event, the Humanoid line follower will be the eye candy of RASE'14, where humanoids from all over the country will 
+participate in a line following challenge and traverse an arena with intersections, loops and discontinuities. The most well designed and efficiently coded 
+humanoid that crosses the arena in minimum time will win the humanoid champion.
+
+6.RASE '14 - NATIONAL LEVEL ROBOTICS COMPETITION
+
+Amrita School of Engineering, Bangalore hosted the first ever National Level Robotic Festival. The participants' technical ingenuity were put to test through 
+several innovative and challenging events.
